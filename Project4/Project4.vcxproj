@@ -114,6 +114,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="eval.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="stack.h" />
   </ItemGroup>
