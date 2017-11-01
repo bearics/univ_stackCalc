@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\beari\source\repos\project4\project4\main.cpp(92): warning C4101: 'number': unreferenced local variable
+c:\users\beari\source\repos\project4\project4\main.cpp(132): warning C4715: 'operLevel': not all control paths return a value
+  Project4.vcxproj -> C:\Users\beari\source\repos\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\beari\source\repos\Project4\Debug\Project4.pdb (Partial PDB)
